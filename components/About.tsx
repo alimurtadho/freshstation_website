@@ -38,7 +38,7 @@ export default function About() {
             </h2>
             <p className="text-lg text-gray-600 mb-6">
               Fresh Station Indonesia is a premium avocado supplier specializing in high-quality 
-              Avocado Hass varieties. Located in Indonesia's fertile agricultural regions, we 
+              Avocado Hass varieties. Located in Indonesia&apos;s fertile agricultural regions, we 
               combine traditional farming wisdom with modern agricultural practices.
             </p>
             <p className="text-lg text-gray-600 mb-8">

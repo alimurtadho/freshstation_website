@@ -23,20 +23,18 @@
 2. Sign up with GitHub, GitLab, or Bitbucket account
 3. Complete account verification
 
-#### Step 2: Create Git Repository
+#### Step 2: Create Git Repository ✅ COMPLETED
 ```bash
-# Initialize git repository (if not already done)
-cd /Users/newuser/ali/project/busines/freshstationid
+# ✅ ALREADY DONE - Your repository is ready!
+# Repository: https://github.com/alimurtadho/freshstation_website
+# Branch: main
+# Status: All files pushed successfully
+
+# Your git commands were:
 git init
-
-# Add all files
 git add .
-
-# Initial commit
-git commit -m "Initial commit - Fresh Station Indonesia website"
-
-# Create repository on GitHub/GitLab and add remote
-git remote add origin YOUR_REPOSITORY_URL
+git commit -m "Initial commit - Fresh Station Indonesia website ready for deployment"
+git remote add origin git@github.com:alimurtadho/freshstation_website.git
 git branch -M main
 git push -u origin main
 ```
@@ -47,8 +45,9 @@ git push -u origin main
    - Click "New Project"
 
 2. **Import Repository**
-   - Select your Git provider (GitHub/GitLab)
-   - Choose the `freshstationid` repository
+   - Select your Git provider: **GitHub**
+   - Choose the `freshstation_website` repository
+   - Repository URL: `https://github.com/alimurtadho/freshstation_website`
    - Click "Import"
 
 3. **Configure Project**

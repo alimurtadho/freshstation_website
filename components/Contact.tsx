@@ -214,7 +214,7 @@ export default function Contact() {
                 Contact Information
               </h3>
               <p className="text-gray-600 mb-8">
-                Get in touch with us through any of these channels. We're here to help 
+                Get in touch with us through any of these channels. We&apos;re here to help 
                 with all your avocado needs.
               </p>
             </div>

@@ -1,0 +1,9 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" fill="transparent"/>
+  <text x="100" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">Fresh Station</text>
+  <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#dcfce7">Premium Avocado</text>
+  <circle cx="30" cy="30" r="15" fill="white"/>
+  <circle cx="170" cy="30" r="15" fill="white"/>
+  <circle cx="30" cy="70" r="15" fill="white"/>
+  <circle cx="170" cy="70" r="15" fill="white"/>
+</svg>

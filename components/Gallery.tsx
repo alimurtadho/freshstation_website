@@ -18,42 +18,42 @@ export default function Gallery() {
     {
       id: 1,
       category: 'farm',
-      src: '/img/farm-view.jpg',
+      src: '/img/farm.JPG',
       alt: 'Avocado Farm View',
       title: 'Our Avocado Farm'
     },
     {
       id: 2,
       category: 'products',
-      src: '/img/fresh-avocados.jpg',
+      src: '/img/organic_product.jpg',
       alt: 'Fresh Avocados',
       title: 'Premium Hass Avocados'
     },
     {
       id: 3,
       category: 'process',
-      src: '/img/harvesting.jpg',
+      src: '/img/IMG-20230519-WA0004_094126.jpg',
       alt: 'Harvesting Process',
       title: 'Quality Harvesting'
     },
     {
       id: 4,
       category: 'packaging',
-      src: '/img/packaging.jpg',
+      src: '/img/Hass avocados in box.jpg',
       alt: 'Packaging Process',
       title: 'Professional Packaging'
     },
     {
       id: 5,
       category: 'farm',
-      src: '/img/avocado-trees.jpg',
+      src: '/img/tree.JPG',
       alt: 'Avocado Trees',
       title: 'Sustainable Farming'
     },
     {
       id: 6,
       category: 'products',
-      src: '/img/organic-quality.jpg',
+      src: '/img/trees.JPG',
       alt: 'Organic Avocados',
       title: 'Organic Quality'
     }
@@ -74,10 +74,10 @@ export default function Gallery() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold font-serif text-gray-900 mb-4">
-            Our <span className="text-gradient">Gallery</span>
+             Welcome to Our <span className="text-gradient">Gallery</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
-            Take a look at our farm, products, and processes that ensure the highest quality avocados.
+             Explore our stunning collection of avocados, showcasing our farm, products, and dedication to quality.
           </p>
 
           {/* Category Filter */}
